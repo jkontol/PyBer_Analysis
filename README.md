@@ -2,7 +2,7 @@
 
 ##Project Overview
 
-In this case study we will examine the data from Pyber, a ride-sharing app company valued at $2.3 billion. We will look at the time frame of January 2019 to early May 2019 to give the CEO a look at how the business is performing across different cities and city types. 
+In this case study we will examine the data from Pyber, a ride-sharing app company valued at $2.3 billion. We will look at the time frame of January 2019 to early May 2019 to give the CEO a look at how the business is performing across different cities and city types. This gives Pyber the information they need to target marketing, recruit more drivers, and find areas that are underperforming. 
 
 ##Analysis
 
